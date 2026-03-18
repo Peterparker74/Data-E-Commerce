@@ -96,3 +96,10 @@ Download Flow Definition
 Le fichier exporté est :
 nifi/flow-definition.json
 Ce fichier permet de recréer le pipeline dans Apache NiFi.
+
+Dashboard Pwer BI
+
+Visuels inclus:
+Tendances des achats en fonction du temps (Line Chart): cela montre l'évolution des achats clients en fonction du montant total des achats par mois
+
+Répartition des ventes par produits (Camembert): cela montre la part de chaque produit sur le montant total d'achat des produits
